@@ -1,8 +1,10 @@
+@import "var";
+
 html {
     font-size: 62.5%;
     // 1rem = 10px 
 }
 
 body{
-    font-size: 1.4rem;
+    font-size: $font_size_base;
 }
